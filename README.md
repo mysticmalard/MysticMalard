@@ -48,7 +48,7 @@ I practically speak it. I'm arguably more fluent in Python than English (my firs
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysticMalard&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMalard&layout=compact&theme=transparent&hide=&exclude_repo=)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMalard&layout=compact&theme=transparent&hide=arc&exclude_repo=)
 
 ## **Notable Projects**
 
