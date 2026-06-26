@@ -14,6 +14,7 @@ I practically speak it. I'm arguably more fluent in Python than English (my firs
 - Assembly (6502 and Custom Architectures)
 - ^ Corresponding Microcode
 - Lambda
+- RegEx
 - HTML
 - Javascript
 - CSS
